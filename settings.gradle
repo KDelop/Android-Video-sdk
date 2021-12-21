@@ -1,0 +1,3 @@
+rootProject.name = "CardScanSDKDemo"
+include ':app'
+include ':ScanCardView'
